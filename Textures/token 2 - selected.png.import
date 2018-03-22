@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/token 2 - selected.png-34c4c5cebca79ce3e0674ca4bf1fbef6.stex"
+
+[deps]
+
+source_file="res://Textures/token 2 - selected.png"
+source_md5="f2a36787643e9ee7f24a97a59ddaaf00"
+
+dest_files=[ "res://.import/token 2 - selected.png-34c4c5cebca79ce3e0674ca4bf1fbef6.stex" ]
+dest_md5="730eb3f406d37e9447c88f73a18db4ce"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

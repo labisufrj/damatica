@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/yellow tile.png-829ed717b1c3cb26da87c1d2b14f4b55.stex"
+
+[deps]
+
+source_file="res://Textures/yellow tile.png"
+source_md5="4af53c58930a935b5472fc2c09cec84a"
+
+dest_files=[ "res://.import/yellow tile.png-829ed717b1c3cb26da87c1d2b14f4b55.stex" ]
+dest_md5="562f91fe29bf6204d90f6f13b02be427"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

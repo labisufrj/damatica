@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/red tile.png-68096cee90cdc9e4ebf4f7fed49196f9.stex"
+
+[deps]
+
+source_file="res://Textures/red tile.png"
+source_md5="dda7414d2fe2777e1250415b19b6faa6"
+
+dest_files=[ "res://.import/red tile.png-68096cee90cdc9e4ebf4f7fed49196f9.stex" ]
+dest_md5="7bd1cba48c0a2d6cfe66bb735c737c1d"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

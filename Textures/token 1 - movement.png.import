@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/token 1 - movement.png-1c326de5afe26b12e38af3e1dd8494a2.stex"
+
+[deps]
+
+source_file="res://Textures/token 1 - movement.png"
+source_md5="3e49b7a909c8d656fff5b5c87422f482"
+
+dest_files=[ "res://.import/token 1 - movement.png-1c326de5afe26b12e38af3e1dd8494a2.stex" ]
+dest_md5="dd2834c846de4aaeaaa2b4013aadc087"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
